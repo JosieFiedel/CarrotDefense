@@ -1,4 +1,4 @@
-**[CS 1420 Fall 2021] Carrot Defense -- A Rabbit's Battle**
+**[CS 1420 Fall 2021] Carrot Defense -- A Rabbits' Battle**
 -----------------------------------------------------------
 
 Carrot Defense is a fun and challenging tower defense game that 
